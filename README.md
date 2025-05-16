@@ -24,7 +24,7 @@
 - :computer: Proficient in `Python`, `C/C++`, `JavaScript`, `ROS/Gazebo`, `Cisco Packet Tracer`, and `SQL`.  
 - :student: Currently deepening my expertise in `Computer Vision`, `Neural Networks`, and `Network Security`.  
 - :nerd_face: Always `learning new technologies`.  
-- :thinking: Open to new `internship opportunities`; check out my [Resume](https://bit.ly/FabianYanezCV).  
+- :thinking: Open to new `internship opportunities`; check out my [Resume](https://drive.google.com/file/d/1dAapilJ5cw1GMUl7pLfjZqqLB4MjDWaI/view?usp=sharing).  
 - :boom: Explore my work on my [Portfolio Website](https://fabianroya.github.io/MiPortafolio/).  
 
 <br>
