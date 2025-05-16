@@ -269,9 +269,9 @@
 	
 <div>
   <p align="center">
-	<a href="https://github.com/FabianRoYa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+	<a href="https://github.com/FabianRoYa/TE3003B_PuzzleBot_TeamBP">
+      		<img src="https://github-readme-stats.vercel.app/api?username=FabianRoYa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
 	<a href="https://github.com/FabianRoYa">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=FabianRoYa&theme=tokyonight" alt="GitHub Stats" />
     	</a>
