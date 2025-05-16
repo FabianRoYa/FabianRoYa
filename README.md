@@ -220,17 +220,29 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/FabianRoYa/FabianRoYa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<!----------------------------------------------------------------------------------------------------------------------------------------- -->
 
-----	
+## 📊 Github Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FabianRoYa&theme=tokyonight_duo" alt="FabianRoYa" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FabianRoYa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    alt="FabianRoYa's GitHub Stats"
+    width="500"
+  />
+</p>
 
+<details>
+  <summary><h3>🔥 Streak Stats</h3></summary>
+  <p align="center">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=FabianRoYa&theme=tokyonight&hide_border=true"
+      alt="FabianRoYa's Streak Stats"
+      width="500"
+    />
+  </p>
 </details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
