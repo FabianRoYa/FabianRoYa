@@ -216,9 +216,11 @@
 
 ---
 
+<a>
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+</a>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -231,60 +233,112 @@
     alt="FabianRoYa's GitHub Stats"
     width="500"
   />
+  <br />
   <img
-  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=FabianRoYa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianRoYa&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"
   alt="FabianRoya Languages"
   width="500"
+  
   />
+
+  </p><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>  
+
+----
+## 📊 Recent Github Activity
+<a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FabianRoYa&theme=github-dark&hide_border=true"
+    alt="FabianRoYa's GitHub Activity Graph"
+    width="600"
+    height="150"
+    style="
+      display: block;
+      margin: 0 auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    "
+  />
+</a>
+
+
+----
+	
+
+
+## Git profile Trophies
+
+## Git profile Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=FabianRoYa&layout=compact&theme=darkhub"
+      alt="FabianRoYa"
+    />
+  </a>
 </p>
 
-<details>
-  <summary><h3>🔥 Streak Stats</h3></summary>
-  <p align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=FabianRoYa&theme=tokyonight&hide_border=true"
-      alt="FabianRoYa's Streak Stats"
-      width="500"
-    />
-  </p>
-</details>
 
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="FabianRoYa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FabianRoYa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianRoYa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FabianRoYa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![FabianRoYa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FabianRoYa&theme=github	)](https://github.com/FabianRoYa/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+-----
 
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FabianRoYa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FabianRoYa" /></a> </p>
-
-[![@FabianRoYa's Holopin board](https://holopin.io/api/user/board?user=FabianRoYa)](https://holopin.io/@FabianRoYa)
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> My Repositories </h3></summary>
 
 ----
-	
-<div>
+
+<details>
+  <summary>📂 My Repositories</summary>
+
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/FabianRoYa/TE3003B_PuzzleBot_TeamBP">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=TE3003B_PuzzleBot_TeamBP&theme=tokyonight"
+        alt="TE3003B PuzzleBot TeamBP"
+        width="120"
+      />
+    </a>
+    <a href="https://github.com/FabianRoYa/FabianRoYa">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=FabianRoYa&theme=tokyonight"
+        alt="FabianRoYa"
+        width="120"
+      />
+    </a>
+    <a href="https://github.com/FabianRoYa/Strees_Testing">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=Strees_Testing&theme=tokyonight"
+        alt="Strees Testing"
+        width="120"
+      />
+    </a>
+    <a href="https://github.com/FabianRoYa/CP-Templates">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=CP-Templates&theme=tokyonight"
+        alt="CP Templates"
+        width="120"
+      />
+    </a>
+    <a href="https://github.com/FabianRoYa/Codeforces-Polygon-Template">
+      <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=FabianRoYa&repo=Codeforces-Polygon-Template&theme=tokyonight"
+        alt="Polygon Template"
+        width="120"
+      />
+    </a>
+  </div>
+
+  <br />
+</details>
+
+<!-- <div>
   <p align="center">
 	<a href="https://github.com/FabianRoYa/TE3003B_PuzzleBot_TeamBP">
       		<img src="https://github-readme-stats.vercel.app/api?username=FabianRoYa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -348,7 +402,7 @@
     	</a>
   </p>
 </div>
-</details>
+</details> -->
 
 </br></br>
 	
