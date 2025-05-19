@@ -264,11 +264,7 @@
 
 ----
 	
-
-
-## Git profile Trophies
-
-## Git profile Trophies
+## 🏆 Git profile Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -401,7 +397,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" /> -->
   </p>
 </div>
-</details> -->
+</details>
 
 </br></br>
 	
